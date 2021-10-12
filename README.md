@@ -51,6 +51,7 @@ __Quer rodar localmente? Tente isto:__
     13. Importante respeitar os espaços. <br />
     14. Após isso rode no terminal o comando flutter pub get. <br />
     15. Agora pode rodar o projeto no chrome ou outro navegador. <br />
+    16. Uma vez rodado no chrome aparecerá sem imagem e dará um erro referente a esta imagem. Isto é normal e não afeta em nada o proposito do projeto. Lembrando que se quer ver o projeto funcional vá até a guia "Pode interesar" deste documento.
 
   Back-End <br />
     1. Baixe o Node.js e baixar a pasta neste repositório com o nome duodigito_api.<br />
@@ -59,9 +60,10 @@ __Quer rodar localmente? Tente isto:__
 
 __Pode interessar:__
   
-  O front-end funcional está disponível no site: https://duodigitoapp.web.app/#/
-  O back-end funcional está disponivel no endereço: https://duodigitoapi.herokuapp.com/
+  O front-end funcional está disponível no site: https://duodigitoapp.web.app/#/ <br />
+  O back-end funcional está disponivel no endereço: https://duodigitoapi.herokuapp.com/ <br />
   
 __Importante:__
   
-  Tanto localmente quanto no release, o back-end entrega as informações em Json quando se realiza um Post (isto pois em uma REST API). Acessando o endereço anterior (https://duodigitoapi.herokuapp.com/), veremos somente no navegador "its working", representando que o serviço está ativo.
+  Tanto localmente quanto no release, o back-end entrega as informações em Json quando se realiza um Post (isto pois em uma REST API). Acessando o endereço anterior (https://duodigitoapi.herokuapp.com/), veremos somente no navegador "its working", representando que o serviço está ativo. <br />
+
