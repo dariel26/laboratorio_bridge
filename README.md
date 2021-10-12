@@ -4,6 +4,11 @@ __Sobre mim:__
 
   Autor: Dariel Arian Acosta Campos.
 
+__Pode interessar:__
+  
+  O front-end funcional está disponível no site: https://duodigitoapp.web.app/#/ <br />
+  O back-end funcional está disponivel no endereço: https://duodigitoapi.herokuapp.com/ <br />
+  
 __Sobre as ferramentas utilizadas:__
 
   Ferramenta utilziada para front-end: Flutter v2.6.0-12.0.pre.300 <br />
@@ -57,11 +62,6 @@ __Quer rodar localmente? Tente isto:__
     1. Baixe o Node.js e baixar a pasta neste repositório com o nome duodigito_api.<br />
     2. Procure o local onde foi baixada a pasta e digite no terminal: node index.js<br />
     3. Para ver o projeto rodando abra o seu navegador e procure na barra de navegação: localhost:3000.<br />
-
-__Pode interessar:__
-  
-  O front-end funcional está disponível no site: https://duodigitoapp.web.app/#/ <br />
-  O back-end funcional está disponivel no endereço: https://duodigitoapi.herokuapp.com/ <br />
   
 __Importante:__
   
