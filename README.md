@@ -59,8 +59,8 @@ __Quer rodar localmente? Tente isto:__
     16. Uma vez rodado aparecerá sem imagem e dará um erro referente a esta imagem. Isto é normal e não afeta em nada o proposito do projeto. Lembrando que se quer ver o projeto funcional vá até a guia "Pode interesar" deste documento.
 
   Back-End <br />
-    1. Baixe o Node.js e baixar a pasta neste repositório com o nome duodigito_api.<br />
-    2. Procure o local onde foi baixada a pasta e digite no terminal: node index.js<br />
+    1. Baixe o Node.js e baixar o arquivo neste repositório com o nome duodigito_api.tar.gz.<br />
+    2. Procure o local onde foi baixado o arquivo, descompacte-o, abra a pasta e digite no terminal desse local: node index.js<br />
     3. Para ver o projeto rodando abra o seu navegador e procure na barra de navegação: localhost:3000.<br />
   
 __Importante:__
