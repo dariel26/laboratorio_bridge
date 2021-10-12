@@ -15,13 +15,13 @@
 ->>> Dependências: 
 
   Flutter: 
-    flutter_bloc: ^7.3.0
-    http: ^0.13.4
+  flutter_bloc: ^7.3.0
+  http: ^0.13.4
 
   Node.js:
-    'express': ^4.17.1
-    'cors': ^2.8.5
-    'body-parser': ^1.19.0
+  'express': ^4.17.1
+  'cors': ^2.8.5
+  'body-parser': ^1.19.0
   
 ->>> Quer rodar localmente? Tente isto:
 
